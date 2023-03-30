@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
-    <h1>hello shivam</h1>
+     <>
+        <Navbar/>
+     </>
   );
 }
 
